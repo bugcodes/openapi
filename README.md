@@ -1,2 +1,2 @@
 # openapi
-open api service
+openai api service
